@@ -29,6 +29,12 @@ Terracotta
 - raw gold
 - gold nugget
 
+Deepslate
+- redstone
+- lapis lazuli
+- emerald
+- diamond
+
 ## Nether
 Basalt, Blackstone, Netherrack
 - gold nugget
